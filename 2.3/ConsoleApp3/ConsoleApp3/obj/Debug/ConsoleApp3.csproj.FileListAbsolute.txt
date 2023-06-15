@@ -1,0 +1,8 @@
+C:\РКИС\C#\Практика\2.3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\РКИС\C#\Практика\2.3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\РКИС\C#\Практика\2.3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\РКИС\C#\Практика\2.3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\РКИС\C#\Практика\2.3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\РКИС\C#\Практика\2.3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\РКИС\C#\Практика\2.3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\РКИС\C#\Практика\2.3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
